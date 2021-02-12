@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+    <License id="Terms">
+        <MachineBindings>
+            <Binding Key="1" Value="00327-36213-57667-AAOEM"/>
+            <Binding Key="2" Value="W -DXW2P1A60HY0D"/>
+            <Binding Key="4" Value="VU5FRk1TSTAyOEsyNDcyNTM0"/>
+            <Binding Key="5" Value="bc:54:2f:1b:2e:34"/>
+        </MachineBindings>
+        <MachineID Value="LrC6C+mFbMNlvFcCN5exewmrT/A="/>
+        <SerialHash Value="e7c0fcd398b3716e167891f0cdb68016d5c7bdfd"/>
+        <Features>
+            <Feature Value="33"/>
+            <Feature Value="1"/>
+            <Feature Value="12"/>
+            <Feature Value="2"/>
+            <Feature Value="24"/>
+            <Feature Value="3"/>
+            <Feature Value="36"/>
+            <Feature Value="17"/>
+            <Feature Value="19"/>
+            <Feature Value="62"/>
+        </Features>
+        <DeveloperData Value="AQAAAEY0LVBZNU0tUkFTVS1CV0tZLUJGQjktWDNOQg=="/>
+        <SerialMasked Value="F4-PY5M-RASU-BWKY-BFB9-XXXX"/>
+        <StartDate Value="2021-02-02T00:00:00"/>
+        <UpdateDate Value="2021-02-03T11:43:28"/>
+        <InitialActivationDate Value="2021-02-02T11:43:25"/>
+        <LicenseVersion Value="6.x"/>
+        <ClientProvidedVersion Value="2017.2.0"/>
+        <AlwaysOnline Value="false"/>
+        <Entitlements>
+            <Entitlement Ns="unity_editor" Tag="UnityPersonal" Type="EDITOR" ValidTo="9999-12-31T00:00:00"/>
+            <Entitlement Ns="unity_editor" Tag="DarkSkin" Type="EDITOR_FEATURE" ValidTo="9999-12-31T00:00:00"/>
+        </Entitlements>
+    </License>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>REq1znLLmWdlJLhdzri6yeJRjkE=</DigestValue></Reference></SignedInfo><SignatureValue>WoW3ut2jRkWhbFGWZl4eO2JfVY7TwDL8gIonbZNelRFaWOF7Bwu4ixftC6U8YJkP9iCooIj14qM8
+BMK2eB4tpSXIDdf+QOdFzu30I9UlZbL24MdxO/ym5oCdpIE21sKGlFrr2Hv5Hk8nxOb2CuP/0UBN
+UeU7gXHCLavOTj8J73mHHYp7WnTPwVsqgP8lmdvTQ5bztYvrdNm/p30XYHDCVVBgFKkl7gcO77xG
+3iyh6uAs9+sOHlIsw0fC47WkWrEnzj8ekEyOserznPKnun2nhalhydfqSUhvR5bc6/JGziMbpBC1
+NyP4siRIJre573s6obDXFTwgh8QAyXGug4JJ5Q==</SignatureValue></Signature></root>
